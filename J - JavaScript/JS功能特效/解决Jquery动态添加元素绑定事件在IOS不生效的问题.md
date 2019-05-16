@@ -1,7 +1,7 @@
 ## 问题：使用jquery动态加载的HTML元素，使用动态的方式绑定事件后，在IOS无法生效的问题
 
 示例：
-```
+```html
 <html>
   <head>
     <title>IOS问题</title>
